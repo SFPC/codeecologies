@@ -1,0 +1,1 @@
+this document will hold the run-sheet (materials, schedule, who's bringing and doing what) for Code Ecologies. alternatively we could also link to a spreadsheet, if that's more convenient.
