@@ -12,6 +12,9 @@ this document will hold the run-sheet (materials, schedule, who's bringing and d
 - Make signages, programs, maps...
 - What else?
 
+## 3PM 
+- All slides compiled and tested 
+
 # Event timeline: Dec 15, 2018
 
 ## 10AM(TBC) ~ NOON: Space opens for organizers 
@@ -27,6 +30,9 @@ this document will hold the run-sheet (materials, schedule, who's bringing and d
 - Facilitate seating, bathrooms, etc
 - Slides up and running
 - Livestream ready to go
+
+## 12:30PM: Speakers arrive 
+- All speakers and facilitators arrive, check in
 
 # 1PM: Event starts
 - 
