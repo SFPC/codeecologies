@@ -1,35 +1,37 @@
 This directory will hold the final program of the event that is intended for the attendees.
 
-## 1~2 PM: Organizers  
-1. Taeyoon
-2. Sonia
-3. Nabil
+12:30 PM Door open
+
+## 1~2 PM: Introduction   
+1. Taeyoon Choi 
+2. Sonia Boller   
+3. Nabil Hassein 
 
 ## 2~3 PM: Featured speakers 
-1. Odile
-2. Jamie 
-3. Cori 
-4. Ian
-5. Elizabeth 
-6. Ingrid 
+1. Odile Joannette 
+2. Jamie Tyberg
+3. Cori Kresge
+4. Ian Fried
+5. Elizabeth Guffey
+6. Ingrid Burrington
 
 ## 3~4PM: Break out session 1 
 
-1. Ed
+1. Ed Bear 
 2. Ingrid + Jamie 
-3. Elizabeth
+3. Brian House 
 4. Ritwick Ghosh
-5. Nabil 
-6. Anne Pasek
+5. Anne Pasek
+6. Community 
 
 ## 4~5 PM: Break out session 2 
 
-1. Ian 
-2. Brian House 
-3. 
-4.
-5.
-6. 
+1. Ian Fried
+2. Elizabeth 
+3. Nabil Hassein 
+4. Evan Tachovsky 
+5. Community
+6. Community 
 
 
 ## 5~6 PM: Plenary 
