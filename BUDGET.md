@@ -1,1 +1,22 @@
-this document will hold the budget for Code Ecologies
+We are working with a $5000 grant. 
+
+- Organizer: Sonia Boller – 400
+- Organizer:	Nabil Hassein	– 400
+- Organizer:	Taeyoon Choi –	0
+- Speaker:	Jamie	– 200
+- Speaker:	Ian	– 200
+- Speaker:	Ingrid – 200
+- Speaker:	Elizabeth	– 200
+- Speaker:	Odile Joannette	– 200
+- Speaker:	Cori kresge	– 200
+- Facilitators: Volunteers
+- Note takers: Volunteers 
+- Space management: Volunteers 
+- Captioning: – 825
+- Food for volunteers: – 200
+- Photo: – 350
+- Video: – 200
+- Space: – 1150 
+- Space 2: – 50
+- Inventory: – 50 	
+- Hotel for a speaker:	300
