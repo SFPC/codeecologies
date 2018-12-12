@@ -8,9 +8,13 @@ Tasks will be tracked on the [project board](https://github.com/SFPC/codeecologi
 
 # Contact Information
 
-email, event hashtag, livestreaming
+- email taeyoon@sfpc.io 
+- event hashtag #codeecologies
+- [livestreaming](https://www.youtube.com/watch?v=BsN_2oYnbLo)
 
 # Organizers
+
+Taeyoon Choi, Nabil Hassein, Sonia Boller (School for Poetic Computation) 
 
 # Code of Conduct
 
