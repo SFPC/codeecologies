@@ -1,11 +1,11 @@
 This directory will hold the final program of the event that is intended for the attendees.
 
-## Organizers  
+## 1~2 PM: Organizers  
 1. Taeyoon
 2. Sonia
 3. Nabil
 
-## Featured speakers 
+## 2~3 PM: Featured speakers 
 1. Odile
 2. Jamie 
 3. Cori 
@@ -13,7 +13,7 @@ This directory will hold the final program of the event that is intended for the
 5. Elizabeth 
 6. Ingrid 
 
-## Break out session 1 
+## 3~4PM: Break out session 1 
 
 1. Ed
 2. Ingrid + Jamie 
@@ -22,7 +22,7 @@ This directory will hold the final program of the event that is intended for the
 5. Nabil 
 6. Anne Pasek
 
-## Break out session 2 
+## 4~5 PM: Break out session 2 
 
 1. Ian 
 2. Brian House 
@@ -32,12 +32,8 @@ This directory will hold the final program of the event that is intended for the
 6. 
 
 
-## Report backs from break out sessions
+## 5~6 PM: Plenary 
 
-Twelve 1 minute report backs
-
-## Soap box session
-
-## Plenary 
-
-Nabil, Sonia, Taeyoon 
+- Report backs from break out sessions, Twelve 1 minute report backs
+- Soap box session
+- Final address by Nabil, Sonia, Taeyoon 
