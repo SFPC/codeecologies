@@ -25,12 +25,12 @@ If not, share the markdown file or google doc directly with Nabil via email via 
 ## Substantive notes
 ### What to capture
 Try to repeat the speaker's words rather than rephrasing your interpretation of their meaning.
-However, it will be impossible for most people to create a transcript of an unplanned real-time discussion.
+However, of course it will be impossible for most people to create a transcript of an unplanned real-time discussion.
 Do your best to summarize the key points that participants in the discussion are making.
 
 ### Privacy
-We will provide some lightweight system, such as stickers for attendees to wear, indicating whether or not they want their comments attributed to them.
-This should be considered as that person's default -- please listen also for folks saying they do or do not want to be named for a particular comment.
-Even for people who are comfortable with their name being published, leave out highly personal details that belong in the room and not on the public internet.
+By default, avoid naming who said what, unless the participant indicates that they do want to be named/credited for a particular comment.
+If possible, at the beginning of the session when folks introduce themselves, prompt them to say a word about whether they affirmatively do want to be credited for their contributions to the discussion.
+Even for people who are comfortable with their name being published, use your judgment to leave out highly personal details that belong in the room and not on the public internet.
 
 As a note-taker, prioritize respecting privacy first, and capturing as much insight as possible in the limited time second, over writing down speakers' names.
