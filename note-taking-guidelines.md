@@ -7,8 +7,10 @@
 
 ## Technical Details
 ### Format of notes
-Use [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) as the common format for all notes documents.
+If you're comfortable with it, use [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) as the common format for all notes documents.
 This is a lightweight plain-text format that is easily converted to other formats such as HTML or PDF.
+
+If you are not familiar with markdown, create a google doc and email it to nabil via nabil.hassein@gmail.com.
 
 To the extent you are able, please try to give the notes a little bit of structure with headers, list etc.
 
@@ -18,7 +20,7 @@ If there is no official session name, use your judgment to describe the theme of
 
 ### Uploading documents to this repository
 If you are comfortable with a [github pull request](https://help.github.com/articles/creating-a-pull-request/), that is the easiest way for us.
-If not, share the file directly with Nabil via email via nabil.hassein@gmail.com.
+If not, share the markdown file or google doc directly with Nabil via email via nabil.hassein@gmail.com.
 
 ## Substantive notes
 ### What to capture
