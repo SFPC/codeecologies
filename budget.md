@@ -20,3 +20,6 @@ We are working with a $5000 grant.
 - Space rental 2: – $50
 - Inventory: – $50 	
 - Hotel for a speaker:	$300
+
+
+Donation: Cash at the registration/ [Venmo](https://venmo.com/tchoi8)/ [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6WSR9NHWS68W&source=url) 
