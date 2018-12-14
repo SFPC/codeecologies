@@ -5,24 +5,19 @@
 - Err on the side of respecting the privacy of participants who do not want their comments attributed to them.
 - Without compromising the above, attempt to name participants who do want credit for their words.
 
-## Technical Details
-### Format of notes
-If you're comfortable with it, use [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) as the common format for all notes documents.
-This is a lightweight plain-text format that is easily converted to other formats such as HTML or PDF.
+## Technical details
+### Format and submission of notes
+At the beginning of each breakout, before the discussion begins, one person should create a Google doc, and share it with any other participants who also want to help with note taking.
 
-If you are not familiar with markdown, create a google doc and send it to the organizers via [this form](https://docs.google.com/forms/d/1AZFoMLveMf5FUw43OKgmjKF-E1HSB3BxLhR4l-aVpGo/edit).
+At the end of the session, one person should send a link to the organizers via [this form](https://docs.google.com/forms/d/1AZFoMLveMf5FUw43OKgmjKF-E1HSB3BxLhR4l-aVpGo/edit). We will take on the task of converting to markdown and publishing the notes to this public github repository.
 
 To the extent you are able, please try to give the notes a little bit of structure with headings, list items, etc.
 
 ### Naming notes documents
-Please give your file a name that looks like `name-of-breakout.md` if it has an official name.
-If there is no official session name, use your judgment to describe the theme of the discussion, perhaps asking other participants for their ideas regarding short summary description!
+Please give your document the same title as the breakout if the facilitator has given it an official name.
+If there is no official session name, use your judgment to describe the theme of the discussion, perhaps asking other participants for their ideas regarding a short summary description!
 
-### Uploading documents to this repository
-If you are comfortable with a [github pull request](https://help.github.com/articles/creating-a-pull-request/), adding your notes to this repository in that way minimizes work for us.
-If not, share the link to a google doc of notes with the organizers via [this form](https://docs.google.com/forms/d/1AZFoMLveMf5FUw43OKgmjKF-E1HSB3BxLhR4l-aVpGo/edit).
-
-## Substantive notes
+## Substantive details
 ### What to capture
 Try to repeat the speaker's words rather than rephrasing your interpretation of their meaning.
 However, of course it will be impossible for most people to create a transcript of an unplanned real-time discussion.
