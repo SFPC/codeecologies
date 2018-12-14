@@ -2,12 +2,12 @@ This directory will hold the final program of the event that is intended for the
 
 12:30 PM Door open
 
-## 1~2 PM: Introduction   
+## 1:15~1:30 PM: Introduction   
 1. Taeyoon Choi 
 2. Sonia Boller   
 3. Nabil Hassein 
 
-## 2~3 PM: Featured speakers 
+## 1:30~3 PM: Featured speakers 
 1. Odile Joannette 
 2. Jamie Tyberg
 3. Cori Kresge
