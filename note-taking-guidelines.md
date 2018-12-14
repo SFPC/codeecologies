@@ -7,28 +7,30 @@
 
 ## Technical Details
 ### Format of notes
-Use [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) as the common format for all notes documents.
+If you're comfortable with it, use [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) as the common format for all notes documents.
 This is a lightweight plain-text format that is easily converted to other formats such as HTML or PDF.
 
-To the extent you are able, please try to give the notes a little bit of structure with headers, list etc.
+If you are not familiar with markdown, create a google doc and send it to the organizers via [this form](https://docs.google.com/forms/d/1AZFoMLveMf5FUw43OKgmjKF-E1HSB3BxLhR4l-aVpGo/edit).
+
+To the extent you are able, please try to give the notes a little bit of structure with headings, list items, etc.
 
 ### Naming notes documents
 Please give your file a name that looks like `name-of-breakout.md` if it has an official name.
-If there is no official session name, use your judgment to describe the theme of the discussion.
+If there is no official session name, use your judgment to describe the theme of the discussion, perhaps asking other participants for their ideas regarding short summary description!
 
 ### Uploading documents to this repository
-If you are comfortable with a [github pull request](https://help.github.com/articles/creating-a-pull-request/), that is the easiest way for us.
-If not, share the file directly with Nabil via email via nabil.hassein@gmail.com.
+If you are comfortable with a [github pull request](https://help.github.com/articles/creating-a-pull-request/), adding your notes to this repository in that way minimizes work for us.
+If not, share the link to a google doc of notes with the organizers via [this form](https://docs.google.com/forms/d/1AZFoMLveMf5FUw43OKgmjKF-E1HSB3BxLhR4l-aVpGo/edit).
 
 ## Substantive notes
 ### What to capture
 Try to repeat the speaker's words rather than rephrasing your interpretation of their meaning.
-However, it will be impossible for most people to create a transcript of an unplanned real-time discussion.
+However, of course it will be impossible for most people to create a transcript of an unplanned real-time discussion.
 Do your best to summarize the key points that participants in the discussion are making.
 
 ### Privacy
-We will provide some lightweight system, such as stickers for attendees to wear, indicating whether or not they want their comments attributed to them.
-This should be considered as that person's default -- please listen also for folks saying they do or do not want to be named for a particular comment.
-Even for people who are comfortable with their name being published, leave out highly personal details that belong in the room and not on the public internet.
+By default, avoid naming who said what, unless the participant indicates that they do want to be named/credited for a particular comment.
+If possible, at the beginning of the session when folks introduce themselves, prompt them to say a word about whether they affirmatively do want to be credited for their contributions to the discussion.
+Even for people who are comfortable with their name being published, use your judgment to leave out highly personal details that belong in the room and not on the public internet.
 
 As a note-taker, prioritize respecting privacy first, and capturing as much insight as possible in the limited time second, over writing down speakers' names.
