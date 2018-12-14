@@ -25,7 +25,7 @@ In parts a skill-share, a walking meditation, and a framework for direct action,
 3. Brian House 
 4. Ritwick Ghosh
 5. Anne Pasek
-6. Community 
+6. Odile Joannette (TBD)
 
 ## 4~5 PM: Break out session 2 
 
@@ -33,7 +33,7 @@ In parts a skill-share, a walking meditation, and a framework for direct action,
 2. Elizabeth Guffey
 3. Nabil Hassein 
 4. Evan Tachovsky 
-5. Community
+5. Cori Kresge
 6. Community 
 
 
