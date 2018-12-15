@@ -6,6 +6,9 @@ After the event, this repository will also hold text documentation, such as the 
 
 Tasks will be tracked on the [project board](https://github.com/SFPC/codeecologies/projects/1).
 
+
+![](https://github.com/SFPC/codeecologies/blob/master/codeecologies.jpg)
+
 # Contact Information
 
 - email taeyoon@sfpc.io 
