@@ -17,15 +17,14 @@ This directory will hold the final program of the event that is intended for the
 
 ## 3~4PM: Break out session 1 
 
-1. Ed Bear 
-Mourning and waste.  Invention and kin.  Repair and care. 
+1. Ed Bear –  Mourning and waste.  Invention and kin.  Repair and care. 
 In parts a skill-share, a walking meditation, and a framework for direct action, this workshop wants to explore how personal and communal intimacy can transform the structures and frontiers of our electronic worlds.  Hands on!
 
 2. Ingrid Burrington + Jamie Tyberg
 3. Brian House 
 4. Ritwick Ghosh
 5. Anne Pasek
-6. Odile Joannette (TBD)
+6. Odile Joannette 
 
 ## 4~5 PM: Break out session 2 
 
