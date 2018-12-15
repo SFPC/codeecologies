@@ -32,14 +32,13 @@ In parts a skill-share, a walking meditation, and a framework for direct action,
 
 ## 4~5 PM: Break out session 2 
 
-1. Ian Fried
-2. Elizabeth Guffey 
-3. Nabil Hassein  
-4. Evan Tachovsky - Mapping as community defense  
-5. Cori Kresge - Ambition/Disintegration : an experiential body practice 
-6. Alex Sustainable energy  - Creative and educational application of solar power 
-7. Odile Joannette 
-
+1. Elizabeth Guffey 
+2. Cori Kresge - Ambition/Disintegration : an experiential body practice  
+3. Ian Fried
+4. Nabil Hassein  
+5. Evan Tachovsky - Mapping as community defense  
+6. Alex - Sustainable energy. Creative and educational application of solar power 
+ 
 ## 5~6 PM: Plenary 
 
 - Report backs from break out sessions, Twelve 1 minute report backs
