@@ -32,8 +32,8 @@ In parts a skill-share, a walking meditation, and a framework for direct action,
 
 ## 4~5 PM: Break out session 2 
 
-1. Elizabeth Guffey 
-2. Cori Kresge - Ambition/Disintegration : an experiential body practice  
+1. Cori Kresge - Ambition/Disintegration : an experiential body practice 
+2. Elizabeth Guffey 
 3. Ian Fried
 4. Nabil Hassein  
 5. Evan Tachovsky - Mapping as community defense  
