@@ -20,7 +20,7 @@ This directory will hold the final program of the event that is intended for the
 1. Ed Bear –  Mourning and waste.  Invention and kin.  Repair and care. 
 In parts a skill-share, a walking meditation, and a framework for direct action, this workshop wants to explore how personal and communal intimacy can transform the structures and frontiers of our electronic worlds.  Hands on!
 
-2. Ingrid Burrington + Jamie Tyberg - Solidarity Across The Supply Chain 
+2. Ingrid Burrington + Jamie Tyberg - Solidarity Across The Supply Chain [notes](https://docs.google.com/document/d/16P4OWHlBuUDhTb4-APU0oHIL8QYgQXq37W0hGLbxVAQ/edit?usp=sharing)
 
 3. Brian House - Sound and rhythm as means of stimulating ecological thinking and reinterpreting "data" about the environment.
 
@@ -28,14 +28,14 @@ In parts a skill-share, a walking meditation, and a framework for direct action,
 
 5. Anne Pasek - Decarbonizing the Digital, policy, tech and social movement 
 
-6. Kathleen Ma - Reframing Zero Waste as Envionrmental Justice 
+6. Kathleen Ma - Reframing Zero Waste as Envionrmental Justice [notes 1](https://docs.google.com/document/d/1qyMw-jFJuYQ5B9LciPtJZO_0fN3KtoELJ1qmb1nXCek) & [notes 2](https://docs.google.com/document/d/1cytmfJ3e_qIbuIO4VyFcpXr8yviQZFPecRTxP-Cb0Cc/edit?usp=sharing)
 
 ## 4~5 PM: Break out session 2 
 
 1. Cori Kresge - Ambition/Disintegration : an experiential body practice 
-2. Elizabeth Guffey 
+2. Elizabeth Guffey [notes](https://docs.google.com/document/d/1kz7qW5chS_6dIcyAJ8BOWto8v6PJf17ixXtee5Z8EvU/edit?usp=sharing) 
 3. Ian Fried
-4. Nabil Hassein  
+4. Nabil Hassein - Abolition and climate change [notes](https://docs.google.com/document/d/1it52wv8HrOXWC-Yp6Nxpf4kPXKhrSMOYFXNz68_LVZA/edit?usp=sharing)
 5. Evan Tachovsky - Mapping as community defense  
 6. Alex - Sustainable energy. Creative and educational application of solar power 
  
